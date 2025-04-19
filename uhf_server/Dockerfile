@@ -4,7 +4,7 @@ FROM ${BUILD_FROM}
 ENV LANG C.UTF-8
 
 # Install dependencies
-#RUN apk add --no-cache python3 py3-pip
+RUN apk add --no-cache python3 py3-pip
 
 # Install uhf-server
 RUN pip3 install uhf-server
