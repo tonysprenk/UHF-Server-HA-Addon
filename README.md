@@ -1,4 +1,4 @@
-# Solid Pixel Add-ons
+# tsprenk Add-ons
 
 Home Assistant addons maintained by Solid Pixel.
 
