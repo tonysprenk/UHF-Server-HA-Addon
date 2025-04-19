@@ -1,7 +1,7 @@
-# Solid Pixel Add-ons
+# tsprenk HA addons
 
 Home Assistant addons maintained by Solid Pixel.
 
 ## Addons
 
-- **UHF Server** - Wrapper for solid-pixel/uhf-server.
+- **UHF Server** - HA addon for UHF Server
